@@ -1,0 +1,35 @@
+
+ SENTENCES
+An astronaut Teddy bears A bowl of soup
+riding a horse lounging in a tropical resort in space 
+playing basketball with cats in space
+in a photorealistic style
+in the style of Andy Warhol 
+as a pencil drawing
+3d render of a astronaut walking in a green desert
+oil painting by matisse of humanoid robot playing chess
+photo of a silhouette of a person standing in color lit desert at night
+a photo of michelangelo's david wearing headphones djing
+"a sea otter with pearl earrings" by johannes vermeer
+hand drawn sketch of porsche 911
+photo of a teddy bear on skateborad in times square
+comic cover of a superhero wearing headphones
+two futuristic tower with a sky bridge covered in lush foliage
+A futuristic cyborg poster hanging in neon lit subway station
+cyberpunk monster in a control room
+photo of white fur monster standing in a purple room
+futuristic neon lit cyborg face
+plush toy robot sitting against a yellow wall
+moint everest made of cake
+
+ WORDS
+  artist
+  	Andy Warhol
+  style
+  	photorealistic
+
+  general
+  astronaut,green desert,stained glass window
+
+  indian temples tall as skyscraper in a diesel punk world with a semi dark background
+  Renaissance painting of an Indian temple cityscape in a cyberpunk world.
